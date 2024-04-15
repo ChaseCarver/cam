@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cam/static/css/main.0ff12df0.css",
+    "main.js": "/cam/static/js/main.645954fd.js",
+    "static/js/453.a0beea67.chunk.js": "/cam/static/js/453.a0beea67.chunk.js",
+    "index.html": "/cam/index.html",
+    "main.0ff12df0.css.map": "/cam/static/css/main.0ff12df0.css.map",
+    "main.645954fd.js.map": "/cam/static/js/main.645954fd.js.map",
+    "453.a0beea67.chunk.js.map": "/cam/static/js/453.a0beea67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ff12df0.css",
+    "static/js/main.645954fd.js"
+  ]
+}
